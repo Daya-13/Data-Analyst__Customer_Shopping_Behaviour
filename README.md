@@ -6,8 +6,11 @@ The dashboard highlights key metrics such as customer distribution, subscription
 
 # Key highlights:
 Data extraction and analysis using SQL
+
 Data cleaning and exploratory analysis using Python
+
 Interactive Power BI dashboard for business insights
+
 Customer segmentation and sales trend analysis
 
 # Tools & Technologies:
